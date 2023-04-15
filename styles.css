@@ -1,0 +1,19 @@
+body {
+    background-color: #17181a;
+}
+
+#slideshowContainer {
+    display: block;
+    text-align: center;
+    margin: auto;
+    border-style: solid;
+    width: fit-content;
+    height: fit-content;
+}
+
+#caption {
+    margin: auto;
+    padding-top: 10px;
+    width: 800px;
+    color: white;
+}
